@@ -1,0 +1,11 @@
+# Ignore all resume PDFs for privacy
+Resume/
+resumes/
+*.pdf
+
+# Ignore generated Excel sheets
+*.xlsx
+
+# Ignore local Python cache files
+__pycache__/
+.env
